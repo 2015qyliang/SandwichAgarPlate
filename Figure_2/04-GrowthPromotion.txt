@@ -1,0 +1,13 @@
+Taxon	Promotation	Count
+Total	Negative	92
+Actinobacteria	Negative	12
+Bacteroidetes	Negative	30
+Firmicutes	Negative	6
+Proteobacteria	Negative	43
+Rhodothermaeota	Negative	1
+Total	Positive	115
+Actinobacteria	Positive	7
+Bacteroidetes	Positive	22
+Firmicutes	Positive	12
+Proteobacteria	Positive	74
+Rhodothermaeota	Positive	0

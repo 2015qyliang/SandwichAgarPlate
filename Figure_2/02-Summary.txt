@@ -1,0 +1,7 @@
+Gps	Taxon	Count
+CG	KS	114
+CG	NS	40
+CG	NG	1
+SAP	KS	368
+SAP	NS	387
+SAP	NG	34

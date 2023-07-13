@@ -1,0 +1,6 @@
+Phylum	S	SG	G
+Actinobacteria	30	1	5
+Bacteroidetes	85	3	2
+Firmicutes	41	0	1
+Proteobacteria	208	5	14
+Rhodothermaeota	1	0	0
