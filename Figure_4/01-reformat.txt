@@ -1,0 +1,27 @@
+Module	Biotin	Cobalamin	Coenzyme A	Heme	Molybdenum cofactor	NAD	Pantothenate	Pimeloyl-ACP	Pyridoxal-P	Riboflavin	Tetrahydrofolate	Thiamine	Ubiquinone
+Strain_F08102	1	0	1	0	0.33	1	0.66	0.33	0	0.66	0.33	0	0
+Strain_S0825	0	0	1	0	0.33	1	1	0	0	0.66	0.66	0	0
+Strain_S0862	0	0	1	0	0.33	1	1	0	0	0.66	0.66	0	0
+Aureibaculum_marinum	0.33	0	1	1	0	1	0.66	0.33	0	0.66	0.66	0	0
+Bizionia_arctica	0	0	1	1	0	1	0.66	0.33	0	0.66	0.33	0	0
+Flaviramulus_basaltis	1	0	1	1	0.33	1	0.66	0	0	0.66	0.33	0	0
+Flaviramulus_ichthyoenteri	1	0	1	1	0.33	1	0.66	0	0	0.66	0.66	0.66	0
+Gaetbulibacter_saemankumensis	1	0	1	1	0.33	1	0.66	0	0	0.66	0.33	0.66	0
+Lacinutrix_algicola	0.33	0	1	1	0	1	0.66	0	0	0.66	0.33	0.66	0
+Lacinutrix_jangbogonensis	0	0	1	1	0	1	0.66	0.33	0	0.66	0.66	0	0
+Lacinutrix_mariniflava	0.33	0	0.66	1	0	1	0.66	0.33	0	0.66	0.33	0.66	0
+Lacinutrix_venerupis	0	0	1	1	0	1	0.66	0	0	0.66	0.33	0	0
+Lutibacter_agarilyticus	0	1	1	1	0	1	1	0	0	0.66	0.66	0.66	0
+Lutibacter_oricola	0	0.33	1	1	0	1	1	0	0	0.66	0.66	0	0
+Lutibacter_profundi	0	0	1	1	0.33	1	1	0	0	0.66	0.66	0	0
+Oceanihabitans_sediminis	0.33	0	1	1	0	1	0.66	0.33	0	0.66	0.33	0.66	0
+Olleya_aquimaris	0	0	1	1	0	1	0.66	0	0	0.66	0.33	0	0
+Olleya_marilimosa	0	0	1	1	0	1	0.66	0	0	0.66	0.33	0.33	0
+Olleya_namhaensis	0	0	1	1	0	1	0.66	0.33	0	0.66	0.33	0.66	0
+Polaribacter_aquimarinus	0	0	1	1	0	1	0.66	0	0	0.66	0.33	0	0
+Polaribacter_dokdonensis	0	0	1	1	0	1	0.66	0.33	0	0.66	0.66	0	0
+Polaribacter_reichenbachii	0	0	1	1	0	1	0.66	0	0	0.66	0.66	0.66	0
+Polaribacter_vadi	0	0	1	1	0	1	0.66	0.33	0	0.66	0.33	0	0
+Winogradskyella_flava	0	0	1	1	0	1	0.66	0.33	0	0.66	0.33	0	0
+Winogradskyella_haliclonae	1	0	1	1	0	1	0.66	0.33	0	0.66	0.33	0	0
+Winogradskyella_wandonensis	0	0	1	1	0	1	0.66	0.33	0	0.66	0.33	0	0

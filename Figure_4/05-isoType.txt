@@ -1,0 +1,31 @@
+host
+activated carbon
+anaerobic digester
+aquatic
+biofilm
+bioreactor
+ceacal content
+compost
+desert environment
+fermentation
+fossil
+freshwater enviroment
+hot springs
+hydrocarbon
+hydrothermal vent
+indoor
+mangrove environment
+marine environment
+microbial mat
+oil field
+peat
+pond
+rhizosphere
+sediment
+sludge
+soda lake
+soil
+stromatolite
+subsurface
+terrestrial
+wastewater
