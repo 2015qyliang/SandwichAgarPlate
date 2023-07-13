@@ -1,0 +1,497 @@
+NCBI_Refseq	GTDB_Phylum	GTDB_Class	GTDB_Order	GTDB_Family	GTDB_Genus	GTDB_Species	Isolation Source
+GCA_001872455	Chloroflexota	Anaerolineae	Anaerolineales	EnvOPS12	UBA8950	UBA8950 sp001872455	freshwater enviroment
+GCA_002029975	Firmicutes_A	Clostridia	Peptostreptococcales	Acidaminobacteraceae	ML8-F1	ML8-F1 sp002029975	freshwater enviroment
+GCA_002347925	Chloroflexota	UBA2235	UBA12225	UBA12225	UBA12225	UBA12225 sp002347925	freshwater enviroment
+GCA_002774355	Marinisomatota	UBA2242	UBA2242	UBA2242	0-14-0-20-45-22	0-14-0-20-45-22 sp002774355	freshwater enviroment
+GCA_002791595	Zixibacteria	MSB-5A5	UM-FILTER-46-8	UM-FILTER-46-8	UM-FILTER-46-8	UM-FILTER-46-8 sp002791595	freshwater enviroment
+GCA_002839185	Synergistota	Synergistia	Synergistales	Synergistaceae	Syner-03	Syner-03 sp002839185	freshwater enviroment
+GCA_002839825	Bacteroidota	Kapabacteria	Kapabacteriales	UBA2268	PGYU01	PGYU01 sp002839825	freshwater enviroment
+GCA_002839855	Goldbacteria	PGYV01	PGYV01	PGYV01	PGYV01	PGYV01 sp002839855	freshwater enviroment
+GCA_002840285	Firmicutes_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	PHAE01	PHAE01 sp002840285	freshwater enviroment
+GCA_002840355	Elusimicrobiota	Elusimicrobia	Elusimicrobiales	UBA9959	UBA9959	UBA9959 sp002840355	freshwater enviroment
+GCA_002840975	Bacteroidota	Bacteroidia	Bacteroidales	F082	UBA6244	UBA6244 sp002840975	freshwater enviroment
+GCA_002842085	Chloroflexota	Anaerolineae	CG2-30-64-16	CG2-30-64-16	CG2-30-64-16	CG2-30-64-16 sp002842085	freshwater enviroment
+GCA_002842095	Sumerlaeota	Sumerlaeia	Sumerlaeales	Sumerlaeaceae	HGW-BRC1-1	HGW-BRC1-1 sp002842095	freshwater enviroment
+GCA_002842515	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	Bact-08	Bact-08 sp002842515	freshwater enviroment
+GCA_002842755	Bacteroidota	Bacteroidia	Bacteroidales	F082	UBA6192	UBA6192 sp002842755	freshwater enviroment
+GCA_002843005	Actinobacteriota	RBG-13-55-18	Fen-727	Fen-727	PHEX01	PHEX01 sp002843005	freshwater enviroment
+GCA_003450815	Elusimicrobiota	Elusimicrobia	Elusimicrobiales	UBA9959	UBA9634	UBA9634 sp003450815	freshwater enviroment
+GCA_003477045	Delongbacteria	UBA4055	UBA4055	UBA4055	UBA12480	UBA12480 sp003477045	freshwater enviroment
+GCA_003671055	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	F1-140-MAGs142	F1-140-MAGs142 sp003671055	freshwater enviroment
+GCA_003671075	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	QWPT01	QWPT01 sp003671075	freshwater enviroment
+GCA_004322425	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	VBAS01	VBAS01 sp004322425	freshwater enviroment
+GCA_009691725	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	F1-60-MAGs104	F1-60-MAGs104 sp009691725	freshwater enviroment
+GCA_009691765	Planctomycetota	GCA-002687715	GCA-002687715	GCA-002687715	SXUL01	SXUL01 sp009691765	freshwater enviroment
+GCA_009691785	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	SYAC01	SYAC01 sp009691785	freshwater enviroment
+GCA_009691805	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	F1-140-MAGs142	F1-140-MAGs142 sp009691805	freshwater enviroment
+GCA_009691915	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	F1-60-MAGs104	F1-60-MAGs104 sp009691915	freshwater enviroment
+GCA_009692045	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	SYPI01	SYPI01 sp009692045	freshwater enviroment
+GCA_009692115	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	GWC2-71-9	JABFSM01	JABFSM01 sp009692115	freshwater enviroment
+GCA_009693575	Bacteroidota	Bacteroidia	NS11-12g	SHWZ01	SHWZ01	SHWZ01 sp009693575	freshwater enviroment
+GCA_009694435	Actinobacteriota	Acidimicrobiia	IMCC26256	PALSA-555	SHUY01	SHUY01 sp009694435	freshwater enviroment
+GCA_009704535	Actinobacteriota	Actinomycetia	Actinomycetales	Microbacteriaceae	Pontimonas	Pontimonas sp009704535	freshwater enviroment
+GCA_009773155	Elusimicrobiota	Elusimicrobia	Elusimicrobiales	UBA9959	UBA2231	UBA2231 sp009773155	freshwater enviroment
+GCA_009773735	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	UBA2212	UBA2212 sp009773735	freshwater enviroment
+GCA_009885945	Chloroflexota	Anaerolineae	Anaerolineales	EnvOPS12	OLB14	OLB14 sp009885945	freshwater enviroment
+GCA_009923455	Actinobacteriota	Actinomycetia	Actinomycetales	Microbacteriaceae	Aquiluna	Aquiluna sp009923455	freshwater enviroment
+GCA_009925875	Actinobacteriota	Actinomycetia	Actinomycetales	Microbacteriaceae	RFQD01	RFQD01 sp009925875	freshwater enviroment
+GCA_009926625	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	F1-60-MAGs104	F1-60-MAGs104 sp009926625	freshwater enviroment
+GCA_009926865	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae	UBA964	UBA964 sp009926865	freshwater enviroment
+GCA_009927485	Bacteroidota	Bacteroidia	UBA7662	UBA7662	SYHX01	SYHX01 sp009927485	freshwater enviroment
+GCA_009928005	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Sediminibacterium	Sediminibacterium sp009928005	freshwater enviroment
+GCA_013140635	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	GWC2-71-9	JABFSM01	JABFSM01 sp013140635	freshwater enviroment
+GCA_013140805	Eisenbacteria	RBG-16-71-46	RBG-16-71-46	RBG-16-71-46	JABFRW01	JABFRW01 sp013140805	freshwater enviroment
+GCA_013140985	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	JJ008	JJ008 sp013140985	freshwater enviroment
+GCA_013141055	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	ELB16-189	ELB16-189 sp013141055	freshwater enviroment
+GCA_013141385	Bacteroidota	Bacteroidia	Bacteroidales	BBW3	UBA8529	UBA8529 sp013141385	freshwater enviroment
+GCA_013376995	Bacteroidota	Bacteroidia	Bacteroidales	Lentimicrobiaceae	Cfx3-02	Cfx3-02 sp013376995	freshwater enviroment
+GCA_013824685	Caldisericota	Caldisericia	Cryosericales	Cryosericaceae	Cryosericum	Cryosericum sp013824685	freshwater enviroment
+GCA_014376435	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Pseudobdellovibrio	Pseudobdellovibrio sp014376435	freshwater enviroment
+GCA_903821715	Bacteroidota	Bacteroidia	Flavobacteriales	Schleiferiaceae	TMED14	TMED14 sp903821715	freshwater enviroment
+GCA_903821875	Spirochaetota	Spirochaetia	Treponematales	UBA8932	CAIJMU01	CAIJMU01 sp903821875	freshwater enviroment
+GCA_903822495	Chloroflexota	Ellin6529	CSP1-4	CSP1-4	CAIJPD01	CAIJPD01 sp903822495	freshwater enviroment
+GCA_903825395	Bacteroidota	Bacteroidia	Flavobacteriales	CAIKAF01	CAIKAF01	CAIKAF01 sp903825395	freshwater enviroment
+GCA_903831575	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter	Ferruginibacter sp903831575	freshwater enviroment
+GCA_903832165	Bacteroidota	Bacteroidia	Bacteroidales	UBA12481	UBA12481	UBA12481 sp903832165	freshwater enviroment
+GCA_903834785	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	CAILKP01	CAILKP01 sp903834785	freshwater enviroment
+GCA_903834845	Bacteroidota	Bacteroidia	Bacteroidales	Prolixibacteraceae	JAAFHB01	JAAFHB01 sp903834845	freshwater enviroment
+GCA_903837495	Bacteroidota	Bacteroidia	Flavobacteriales	CAIKAF01	CAIKAF01	CAIKAF01 sp903837495	freshwater enviroment
+GCA_903837525	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter	Ferruginibacter sp903837525	freshwater enviroment
+GCA_903843285	Omnitrophota	Koll11	UBA1560	2-01-FULL-45-10	CAIMPC01	CAIMPC01 sp903843285	freshwater enviroment
+GCA_903844055	Firmicutes	Bacilli	Izemoplasmatales	UBA5603	UBA12489	UBA12489 sp903844055	freshwater enviroment
+GCA_903844815	Bacteroidota	Bacteroidia	Bacteroidales	VadinHA17	LD21	LD21 sp903844815	freshwater enviroment
+GCA_903844845	Chloroflexota	Dehalococcoidia	Dehalococcoidales	UBA1222	SURF-27	SURF-27 sp903844845	freshwater enviroment
+GCA_903844855	Actinobacteriota	Actinomycetia	Nanopelagicales	Nanopelagicaceae	GCA-2737595	GCA-2737595 sp903844855	freshwater enviroment
+GCA_903845135	Firmicutes	Bacilli	RFN20	CAG-826	UBA970	UBA970 sp903845135	freshwater enviroment
+GCA_903847585	Bacteroidota	Bacteroidia	AKYH767-A	OLB10	CAINEC01	CAINEC01 sp903847585	freshwater enviroment
+GCA_903850915	Bacteroidota	Bacteroidia	NS11-12g	CAINMV01	CAINMV01	CAINMV01 sp903850915	freshwater enviroment
+GCA_903856555	Bacteroidota	Bacteroidia	UBA7662	UBA7662	SYHX01	SYHX01 sp903856555	freshwater enviroment
+GCA_903862655	Bacteroidota	Kapabacteria	Kapabacteriales	UBA2268	CAIOZA01	CAIOZA01 sp903862655	freshwater enviroment
+GCA_903865435	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Sediminibacterium	Sediminibacterium sp903865435	freshwater enviroment
+GCA_903865935	WOR-3	WOR-3	UBA2258	CAIPLT01	CAIPLT01	CAIPLT01 sp903865935	freshwater enviroment
+GCA_903868125	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	CAIPUE01	CAIPUE01 sp903868125	freshwater enviroment
+GCA_903872065	Chloroflexota	Anaerolineae	Anaerolineales	UBA4823	CAIQJJ01	CAIQJJ01 sp903872065	freshwater enviroment
+GCA_903875215	Chloroflexota	Anaerolineae	Anaerolineales	EnvOPS12	UBA5195	UBA5195 sp903875215	freshwater enviroment
+GCA_903879995	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	JJ008	JJ008 sp903879995	freshwater enviroment
+GCA_903881265	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	OLB11	OLB11 sp903881265	freshwater enviroment
+GCA_903881665	Bacteroidota	Bacteroidia	AKYH767-A	OLB10	CAINEC01	CAINEC01 sp903881665	freshwater enviroment
+GCA_903883965	Bacteroidota	Bacteroidia	NS11-12g	UKL13-3	CAISCU01	CAISCU01 sp903883965	freshwater enviroment
+GCA_903884455	Chloroflexota	Dehalococcoidia	GIF9	AB-539-J10	RBG-13-51-36	RBG-13-51-36 sp903884455	freshwater enviroment
+GCA_903885195	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae	UBA964	UBA964 sp903885195	freshwater enviroment
+GCA_903887175	Actinobacteriota	Actinomycetia	Actinomycetales	Microbacteriaceae	Rhodoluna	Rhodoluna sp903887175	freshwater enviroment
+GCA_903889425	Chloroflexota	Chloroflexia	Chloroflexales	Roseiflexaceae	UBA965	UBA965 sp903889425	freshwater enviroment
+GCA_903891095	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	QWPT01	QWPT01 sp903891095	freshwater enviroment
+GCA_903891165	Myxococcota	UBA796	UBA796	SXON01	CAITDR01	CAITDR01 sp903891165	freshwater enviroment
+GCA_903896595	Verrucomicrobiota	Lentisphaeria	UBA1407	CAITYL01	CAITYL01	CAITYL01 sp903896595	freshwater enviroment
+GCA_903897855	Bacteroidota	Bacteroidia	NS11-12g	CAINMV01	CAINMV01	CAINMV01 sp903897855	freshwater enviroment
+GCA_903900265	Myxococcota	UBA796	UBA796	SXON01	CAIUMM01	CAIUMM01 sp903900265	freshwater enviroment
+GCA_903901045	Planctomycetota	Brocadiae	CAIUPP01	CAIUPP01	CAIUPP01	CAIUPP01 sp903901045	freshwater enviroment
+GCA_903901975	Bacteroidota	Bacteroidia	Bacteroidales	Paludibacteraceae	Paludibacter	Paludibacter sp903901975	freshwater enviroment
+GCA_903907885	Bacteroidota	Bacteroidia	NS11-12g	UKL13-3	RGVD01	RGVD01 sp903907885	freshwater enviroment
+GCA_903909605	Actinobacteriota	Actinomycetia	Actinomycetales	Microbacteriaceae	Rhodoluna	Rhodoluna sp903909605	freshwater enviroment
+GCA_903910445	Bacteroidota	Bacteroidia	NS11-12g	CAINMV01	CAINMV01	CAINMV01 sp903910445	freshwater enviroment
+GCA_903911135	Bacteroidota	Bacteroidia	AKYH767-A	JABDAW01	JABDAW01	JABDAW01 sp903911135	freshwater enviroment
+GCA_903911145	Myxococcota	Myxococcia	Myxococcales	40CM-4-68-19	CAIWCD01	CAIWCD01 sp903911145	freshwater enviroment
+GCA_903915465	Bacteroidota	Bacteroidia	Bacteroidales	FEN-979	FEN-979	FEN-979 sp903915465	freshwater enviroment
+GCA_903916595	Bacteroidota	Bacteroidia	Bacteroidales	FEN-979	CAIRDP01	CAIRDP01 sp903916595	freshwater enviroment
+GCA_903919925	Bacteroidota	Bacteroidia	Bacteroidales	UBA12481	UBA12481	UBA12481 sp903919925	freshwater enviroment
+GCA_903925955	Chloroflexota	Ellin6529	CSP1-4	CSP1-4	CAIXZV01	CAIXZV01 sp903925955	freshwater enviroment
+GCA_903927265	Actinobacteriota	Actinomycetia	Nanopelagicales	CAIYMF01	CAIYMF01	CAIYMF01 sp903927265	freshwater enviroment
+GCA_903927345	Armatimonadota	Fimbriimonadia	Fimbriimonadales	Fimbriimonadaceae	Fimbriimonas	Fimbriimonas sp903927345	freshwater enviroment
+GCA_903927725	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	SYIB01	SYIB01 sp903927725	freshwater enviroment
+GCA_903927965	Bacteroidota	Bacteroidia	Bacteroidales	Prolixibacteraceae	JAAFHB01	JAAFHB01 sp903927965	freshwater enviroment
+GCA_903928285	Bacteroidota	Bacteroidia	Bacteroidales	FEN-979	CAIVAT01	CAIVAT01 sp903928285	freshwater enviroment
+GCA_903929065	Bacteroidota	Bacteroidia	Bacteroidales	Paludibacteraceae	Paludibacter	Paludibacter sp903929065	freshwater enviroment
+GCA_903933805	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	M3007	M3007 sp903933805	freshwater enviroment
+GCA_903935175	Actinobacteriota	Actinomycetia	Actinomycetales	Microbacteriaceae	Rhodoluna	Rhodoluna sp903935175	freshwater enviroment
+GCA_903939735	Bacteroidota	Kapabacteria	Kapabacteriales	Kapabacteriaceae	UBA10438	UBA10438 sp903939735	freshwater enviroment
+GCA_903944895	Bacteroidota	Bacteroidia	Bacteroidales	4484-276	CAJATL01	CAJATL01 sp903944895	freshwater enviroment
+GCA_903945175	Bacteroidota	Bacteroidia	Bacteroidales	FEN-979	CAIVAT01	CAIVAT01 sp903945175	freshwater enviroment
+GCA_903957365	Bacteroidota	Bacteroidia	Bacteroidales	F082	UBA6192	UBA6192 sp903957365	freshwater enviroment
+GCA_903960135	Actinobacteriota	Actinomycetia	Nanopelagicales	S36-B12	GCA-2737125	GCA-2737125 sp903960135	freshwater enviroment
+GCA_903960645	Actinobacteriota	Thermoleophilia	Gaiellales	F1-60-MAGs149	F1-60-MAGs149	F1-60-MAGs149 sp903960645	freshwater enviroment
+GCA_903961015	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	F1-60-MAGs104	F1-60-MAGs104 sp903961015	freshwater enviroment
+GCF_009371885	Actinobacteriota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium tibiigranuli	freshwater enviroment
+GCF_009828765	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Erysipelothrix	Erysipelothrix sp009828765	freshwater enviroment
+GCA_000431155	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Paramuribaculum	Paramuribaculum sp000431155	host
+GCA_000431215	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	CAG-1031	CAG-1031 sp000431215	host
+GCA_000431235	Firmicutes	Bacilli	ML615J-28	CAG-698	CAG-698	CAG-698 sp000431235	host
+GCA_000431535	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Eubacterium_R	Eubacterium_R sp000431535	host
+GCA_000431795	Firmicutes	Bacilli	RF39	UBA660	CAG-302	CAG-302 sp000431795	host
+GCA_000431835	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrio	Succinivibrio sp000431835	host
+GCA_000432595	Firmicutes	Bacilli	RF39	UBA660	CAG-710	CAG-710 sp000432595	host
+GCA_000432775	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	CAG-831	CAG-831 sp000432775	host
+GCA_000432895	Firmicutes	Bacilli	RFN20	CAG-449	CAG-449	CAG-449 sp000432895	host
+GCA_000433035	Firmicutes	Bacilli	ML615J-28	CAG-313	CAG-313	CAG-313 sp000433035	host
+GCA_000433355	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp000433355	host
+GCA_000433475	Firmicutes	Bacilli	RF39	UBA660	CAG-605	CAG-605 sp000433475	host
+GCA_000433675	Firmicutes	Bacilli	RF39	UBA660	CAG-433	CAG-433 sp000433675	host
+GCA_000433875	Firmicutes	Bacilli	RF39	UBA660	CAG-884	CAG-884 sp000433875	host
+GCA_000434055	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	CAG-488	CAG-488 sp000434055	host
+GCA_000434175	Firmicutes	Bacilli	RF39	UBA660	CAG-611	CAG-611 sp000434175	host
+GCA_000434555	Firmicutes	Bacilli	RF39	UBA660	CAG-1000	CAG-1000 sp000434555	host
+GCA_000434635	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	CAG-110	CAG-110 sp000434635	host
+GCA_000434835	Firmicutes	Bacilli	RF39	UBA660	CAG-594	CAG-594 sp000434835	host
+GCA_000434935	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp000434935	host
+GCA_000435075	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp000435075	host
+GCA_000435475	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	CAG-1427	CAG-1427 sp000435475	host
+GCA_000435495	Firmicutes_A	Clostridia_A	Christensenellales	CAG-552	CAG-552	CAG-552 sp000435495	host
+GCA_000435615	Firmicutes_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	CAG-238	CAG-238 sp000435615	host
+GCA_000435715	Firmicutes_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	CAG-145	CAG-145 sp000435715	host
+GCA_000436375	Proteobacteria	Alphaproteobacteria	RF32	CAG-239	CAG-495	CAG-495 sp000436375	host
+GCA_000436975	Firmicutes	Bacilli	RF39	UBA660	CAG-1000	CAG-1000 sp000436975	host
+GCA_000437895	Firmicutes	Bacilli	RF39	UBA660	CAG-914	CAG-914 sp000437895	host
+GCA_000438195	Firmicutes	Bacilli	RF39	UBA660	CAG-776	CAG-776 sp000438195	host
+GCA_001701165	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	CAG-873	CAG-873 sp001701165	host
+GCA_001916215	Firmicutes	Bacilli	Acholeplasmatales	Anaeroplasmataceae	CAG-307	CAG-307 sp001916215	host
+GCA_001917125	Proteobacteria	Alphaproteobacteria	RF32	CAG-239	CAG-495	CAG-495 sp001917125	host
+GCA_001917135	Proteobacteria	Alphaproteobacteria	RF32	CAG-239	CAG-267	CAG-267 sp001917135	host
+GCA_001940925	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Firm-04	Firm-04 sp001940925	host
+GCA_001941205	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Amulumruptor	Amulumruptor caecigallinarius	host
+GCA_002293315	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	UBA945	UBA945 sp002293315	host
+GCA_002309715	Elusimicrobiota	Elusimicrobia	Elusimicrobiales	Elusimicrobiaceae	UBA1436	UBA1436 sp002309715	host
+GCA_002311025	Elusimicrobiota	Elusimicrobia	Elusimicrobiales	Elusimicrobiaceae	UBA1174	UBA1174 sp002311025	host
+GCA_002320005	Firmicutes_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	CAG-145	CAG-145 sp002320005	host
+GCA_002353825	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp002353825	host
+GCA_002358965	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	UBA3382	UBA3382 sp002358965	host
+GCA_002369135	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Eubacterium_G	Eubacterium_G sp002369135	host
+GCA_002369415	Firmicutes	Bacilli	RF39	UBA660	UBA3789	UBA3789 sp002369415	host
+GCA_002372315	Proteobacteria	Alphaproteobacteria	RF32	UBA3637	UBA3637	UBA3637 sp002372315	host
+GCA_002373675	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	RUG191	RUG191 sp002373675	host
+GCA_002405165	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UBA4675	UBA4675 sp002405165	host
+GCA_002406015	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	CAG-632	CAG-632 sp002406015	host
+GCA_002406055	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae	UBA5920	UBA5920 sp002406055	host
+GCA_002406115	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA4626	UBA4626 sp002406115	host
+GCA_002429045	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	UBA6054	UBA6054 sp002429045	host
+GCA_002437665	Proteobacteria	Alphaproteobacteria	Rs-D84	Rs-D84	Rs-D84	Rs-D84 sp002437665	host
+GCA_002439755	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	UBA6382	UBA6382 sp002439755	host
+GCA_002440125	Firmicutes	Bacilli	RFN20	CAG-826	UBA4951	UBA4951 sp002440125	host
+GCA_002449755	Firmicutes	Bacilli	Acholeplasmatales	Anaeroplasmataceae	Anaeroplasma	Anaeroplasma sp002449755	host
+GCA_002449845	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp002449845	host
+GCA_002451465	Firmicutes	Bacilli	RFN20	CAG-826	UBA4855	UBA4855 sp002451465	host
+GCA_002477825	Firmicutes	Bacilli	RFN20	CAG-826	CAG-826	CAG-826 sp002477825	host
+GCA_002477945	Bacteroidota	Bacteroidia	Bacteroidales	Paludibacteraceae	RF16	RF16 sp002477945	host
+GCA_002490425	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	CAG-180	CAG-180 sp002490425	host
+GCA_002633315	Bacteroidota	Bacteroidia	Bacteroidales	F082	F082	F082 sp002633315	host
+GCA_002742935	Delongbacteria	UBA4055	UBA4055	UBA4055	GCA-2742935	GCA-2742935 sp002742935	host
+GCA_002749205	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	GCA-2749205	GCA-2749205 sp002749205	host
+GCA_003149915	Firmicutes	Bacilli	RF39	UBA660	CAG-988	CAG-988 sp003149915	host
+GCA_003149935	Actinobacteriota	Coriobacteriia	Coriobacteriales	QAMH01	QAMH01	QAMH01 sp003149935	host
+GCA_003150175	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella_E	Olsenella_E sp003150175	host
+GCA_003150235	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	Muribaculum sp003150235	host
+GCA_003531585	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	CAG-115	CAG-115 sp003531585	host
+GCA_003538975	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UBA11475	UBA11475 sp003538975	host
+GCA_003979345	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA7050	UBA7050 sp003979345	host
+GCA_004144185	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	UBA1952	UBA1952 sp004144185	host
+GCA_004552155	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotellamassilia	Prevotellamassilia sp004552155	host
+GCA_004552305	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	Gemmiger variabiliA	host
+GCA_004553095	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	CAG-485	CAG-485 sp004553095	host
+GCA_004553575	Firmicutes_A	Clostridia	Oscillospirales	CAG-382	SFLA01	SFLA01 sp004553575	host
+GCA_004554775	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	Gemmiger variabiliB	host
+GCA_004555855	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	CAG-115	CAG-115 sp004555855	host
+GCA_004556155	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	SFMI01	SFMI01 sp004556155	host
+GCA_004556745	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotellamassilia	Prevotellamassilia sp004556745	host
+GCA_004557185	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotellamassilia	Prevotellamassilia sp004557185	host
+GCA_004557245	Firmicutes_A	Clostridia_A	Christensenellales	CAG-138	SFEL01	SFEL01 sp004557245	host
+GCA_004557385	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	SFTJ01	SFTJ01 sp004557385	host
+GCA_004557565	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Sodaliphilus	Sodaliphilus sp004557565	host
+GCA_004557645	Firmicutes_A	Clostridia	Lachnospirales	Anaerotignaceae	Anaerotignum	Anaerotignum sp004557645	host
+GCA_004557655	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	CAG-83	CAG-83 sp004557655	host
+GCA_009774765	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp009774765	host
+GCA_009776515	Chloroflexota	Dehalococcoidia	Dehalococcoidales	UBA1222	WRNP01	WRNP01 sp009776515	host
+GCA_009777055	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	WRMQ01	WRMQ01 sp009777055	host
+GCA_009777235	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	WRMH01	WRMH01 sp009777235	host
+GCA_009777575	Cloacimonadota	Cloacimonadia	Cloacimonadales	WRIO01	WRLO01	WRLO01 sp009777575	host
+GCA_009777635	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	WRAV01	WRAV01 sp009777635	host
+GCA_009777715	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA935	UBA935 sp009777715	host
+GCA_009777725	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA946	UBA946 sp009777725	host
+GCA_009777835	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Ruminiclostridium_E	Ruminiclostridium_E sp009777835	host
+GCA_009778065	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Ruminiclostridium_E	Ruminiclostridium_E sp009778065	host
+GCA_009780275	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	WRAI01	WRAI01 sp009780275	host
+GCA_009781315	Elusimicrobiota	Endomicrobia	Endomicrobiales	Endomicrobiaceae	Endomicrobium	Endomicrobium sp009781315	host
+GCA_009781515	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	WRMH01	WRMH01 sp009781515	host
+GCA_009782435	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	WRJA01	WRJA01 sp009782435	host
+GCA_009782605	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Raoultibacter	Raoultibacter sp009782605	host
+GCA_009784895	Actinobacteriota	Actinomycetia	Actinomycetales	Demequinaceae	WQXJ01	WQXJ01 sp009784895	host
+GCA_009785175	Proteobacteria	Alphaproteobacteria	Rs-D84	CACZYB01	WQWV01	WQWV01 sp009785175	host
+GCA_009884515	Firmicutes	Bacilli	Mycoplasmatales	Mycoplasmoidaceae	Mycoplasma_L	Mycoplasma_L liparidae	host
+GCA_011523395	Actinobacteriota	Acidimicrobiia	UBA5794	SZUA-232	VXMP01	VXMP01 sp011523395	host
+GCA_011523635	Actinobacteriota	Acidimicrobiia	UBA5794	SZUA-232	VXMP01	VXMP01 sp011523635	host
+GCA_011525035	Bacteroidota	Bacteroidia	Flavobacteriales	Schleiferiaceae	UBA10364	UBA10364 sp011525035	host
+GCA_012103255	Acidobacteriota	UBA890	UBA890	WLXD01	WLXD01	WLXD01 sp012103255	host
+GCA_012270555	Chloroflexota	UBA11872	VXOZ01	VXOZ01	VXOZ01	VXOZ01 sp012270555	host
+GCA_012270885	Actinobacteriota	Acidimicrobiia	UBA5794	Bin76	Bin76	Bin76 sp012270885	host
+GCA_014384705	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	NSJ-40	NSJ-40 sp014384705	host
+GCA_014384765	Firmicutes_A	Clostridia	Oscillospirales	BX7	BX7	BX7 sp014384765	host
+GCA_014384795	Firmicutes_A	Clostridia_A	Christensenellales	NSJ-53	NSJ-53	NSJ-53 sp014384795	host
+GCA_014384805	Firmicutes_A	Clostridia_A	Christensenellales	Christensenellaceae	NSJ-63	NSJ-63 sp014384805	host
+GCA_014385095	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	NSJ-54	NSJ-54 sp014385095	host
+GCA_014385195	Firmicutes_A	Clostridia	Tissierellales	Tissierellaceae	BX21	BX21 sp014385195	host
+GCA_014385225	Firmicutes_A	Clostridia	Tissierellales	Tissierellaceae	JACRTK01	JACRTK01 sp014385225	host
+GCA_014385265	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	CAG-81	CAG-81 sp000435795	host
+GCA_900752445	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	UBA5446	UBA5446 sp900752445	host
+GCA_900761435	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	Coprococcus sp900761435	host
+GCA_900766195	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp900766195	host
+GCA_900768045	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes sp900768045	host
+GCA_900769445	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes sp900769445	host
+GCA_900770295	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Dysosmobacter	Dysosmobacter sp900770295	host
+GCA_900770395	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp900770395	host
+GCA_900770635	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes sp900770635	host
+GCA_902388455	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	CAG-831	CAG-831 sp902388455	host
+GCA_902760595	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	UBA4246	UBA4246 sp902760595	host
+GCA_902761605	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp902761605	host
+GCA_902761975	Elusimicrobiota	Elusimicrobia	Elusimicrobiales	Elusimicrobiaceae	UBA1436	UBA1436 sp902761975	host
+GCA_902762435	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp902762435	host
+GCA_902762505	Firmicutes_A	Clostridia	Oscillospirales	CAG-272	UBA1248	UBA1248 sp902762505	host
+GCA_902762655	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp902762655	host
+GCA_902762805	Bacteroidota	Bacteroidia	Bacteroidales	P3	UBA1711	UBA1711 sp902762805	host
+GCA_902763185	Proteobacteria	Alphaproteobacteria	RF32	CAG-239	CAG-267	CAG-267 sp902763185	host
+GCA_902764145	Firmicutes	Bacilli	RF39	UBA660	CAG-1000	CAG-1000 sp902764145	host
+GCA_902764185	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	SFMI01	SFMI01 sp902764185	host
+GCA_902765005	Firmicutes_A	Clostridia_A	Christensenellales	CAG-138	RUG472	RUG472 sp902765005	host
+GCA_902765225	Elusimicrobiota	Elusimicrobia	Elusimicrobiales	Elusimicrobiaceae	UBA1436	UBA1436 sp902765225	host
+GCA_902765395	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	UBA2862	UBA2862 sp902765395	host
+GCA_902765625	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Ruminococcus_E	RuminococcuE sp902765625	host
+GCA_902765735	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	UBA2862	UBA2862 sp002350605	host
+GCA_902767115	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA3855	UBA3855 sp902767115	host
+GCA_902767775	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp902767775	host
+GCA_902768065	Firmicutes	Bacilli	RF39	UBA660	UBA3789	UBA3789 sp902768065	host
+GCA_902768335	Firmicutes	Bacilli	RFN20	CAG-826	UBA3207	UBA3207 sp902768335	host
+GCA_902768985	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp902768985	host
+GCA_902769185	Firmicutes	Bacilli	RFN20	CAG-826	UBA2450	UBA2450 sp902769185	host
+GCA_902773925	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	Bact-11	Bact-11 sp902773925	host
+GCA_902774045	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp902774045	host
+GCA_902774125	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Eubacterium_G	Eubacterium_G sp902774125	host
+GCA_902774175	Bacteroidota	Bacteroidia	Bacteroidales	WCHB1-69	UBA1195	UBA1195 sp902774175	host
+GCA_902774845	Bacteroidota	Bacteroidia	Bacteroidales	P3	UBA1711	UBA1711 sp902774845	host
+GCA_902775135	Bacteroidota	Bacteroidia	Bacteroidales	P3	UBA1711	UBA1711 sp902775135	host
+GCA_902775895	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA4285	UBA4285 sp902775895	host
+GCA_902776475	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp902776475	host
+GCA_902776835	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Sodaliphilus	Sodaliphilus sp902776835	host
+GCA_902778165	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA1712	UBA1712 sp902778165	host
+GCA_902780395	Firmicutes	Bacilli	RF39	UBA660	UBA3789	UBA3789 sp902780395	host
+GCA_902780405	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	CAG-127	CAG-127 sp902780405	host
+GCA_902780505	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus_D	RuminococcuD sp902780505	host
+GCA_902780845	Firmicutes_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	RUG754	RUG754 sp902780845	host
+GCA_902781515	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	UBA4372	UBA4372 sp902781515	host
+GCA_902781545	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae	UBA9732	UBA9732 sp902781545	host
+GCA_902781705	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp902781705	host
+GCA_902782225	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp902782225	host
+GCA_902783265	Firmicutes	Bacilli	RF39	UBA660	CAG-822	CAG-822 sp902783265	host
+GCA_902784545	Firmicutes_A	Clostridia	Oscillospirales	CAG-272	UBA1248	UBA1248 sp902784545	host
+GCA_902784855	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Ruminococcus_E	RuminococcuE sp902784855	host
+GCA_902785065	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp902785065	host
+GCA_902785135	Firmicutes	Bacilli	RF39	UBA660	RUG13038	RUG13038 sp902785135	host
+GCA_902785275	Proteobacteria	Alphaproteobacteria	Rs-D84	CACZYB01	CACZYB01	CACZYB01 sp902785275	host
+GCA_902785485	Firmicutes_A	Clostridia	Oscillospirales	CAG-272	RUG13077	RUG13077 sp902785485	host
+GCA_902785575	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp902785575	host
+GCA_902785645	Firmicutes	Bacilli	RFN20	CAG-826	RUG13091	RUG13091 sp902785645	host
+GCA_902785765	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	UBA1213	UBA1213 sp902785765	host
+GCA_902785825	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp902785825	host
+GCA_902786565	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp902786565	host
+GCA_902787375	Firmicutes_A	Clostridia_A	Christensenellales	CAG-138	UBA3857	UBA3857 sp900313585	host
+GCA_902787575	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	UBA4372	UBA4372 sp900320715	host
+GCA_902787955	Firmicutes	Bacilli	RFN20	CAG-826	UBA3207	UBA3207 sp902787955	host
+GCA_902788705	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	UBA1367	UBA1367 sp902788705	host
+GCA_902789325	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	Treponema_D	Treponema_D sp902789325	host
+GCA_902789425	Firmicutes	Bacilli	RF39	UBA660	RUG13038	RUG13038 sp902789425	host
+GCA_902790595	Bacteroidota	Bacteroidia	Bacteroidales	SZUA-534	RUG13583	RUG13583 sp902790595	host
+GCA_902790985	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Ruminococcus_E	RuminococcuE sp902790985	host
+GCA_902791425	Firmicutes_A	Clostridia	Monoglobales	Monoglobaceae	UMGS1820	UMGS1820 sp902791425	host
+GCA_902791965	Elusimicrobiota	Elusimicrobia	Elusimicrobiales	Elusimicrobiaceae	UBA1174	UBA1174 sp902791965	host
+GCA_902792635	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp902792635	host
+GCA_902792815	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp902792815	host
+GCA_902792855	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp902792855	host
+GCA_902793375	Firmicutes	Bacilli	RF39	UBA660	RUG13868	RUG13868 sp902793375	host
+GCA_902793605	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	GCA-900199385	GCA-900199385 sp900320755	host
+GCA_902793635	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Bulleidia	Bulleidia sp902793635	host
+GCA_902793685	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Stomatobaculum	Stomatobaculum sp902793685	host
+GCA_902793695	Proteobacteria	Alphaproteobacteria	RF32	CAG-239	RUG410	RUG410 sp902793695	host
+GCA_902794005	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp902794005	host
+GCA_902794895	Elusimicrobiota	Elusimicrobia	Elusimicrobiales	Elusimicrobiaceae	UBA1436	UBA1436 sp902794895	host
+GCA_902795275	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	RUG563	RUG563 sp902795275	host
+GCA_902795745	Proteobacteria	Alphaproteobacteria	RF32	CAG-239	RUG410	RUG410 sp902795745	host
+GCA_902796285	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	UBA11517 sp902796285	host
+GCA_902797855	Firmicutes	Bacilli	RFN20	CAG-826	UBA3207	UBA3207 sp902797855	host
+GCA_902798815	Firmicutes	Bacilli	RF39	UBA660	UBA3789	UBA3789 sp902798815	host
+GCA_902798835	Elusimicrobiota	Elusimicrobia	Elusimicrobiales	Elusimicrobiaceae	UBA1436	UBA1436 sp902798835	host
+GCA_902798915	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	RUG440	RUG440 sp902798915	host
+GCA_902799465	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	UBA2862	UBA2862 sp902799465	host
+GCA_902800015	Firmicutes	Bacilli	Mycoplasmatales	Mycoplasmoidaceae	Malacoplasma_A	Malacoplasma_A sp902800015	host
+GCA_902800325	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	CAG-127	CAG-127 sp902800325	host
+GCA_902800355	Firmicutes	Bacilli	RFN20	CAG-826	UBA2450	UBA2450 sp902800355	host
+GCA_902800645	Firmicutes	Bacilli	RFN20	CAG-826	UBA2450	UBA2450 sp902800645	host
+GCA_902800925	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp902800925	host
+GCF_000311745	Firmicutes_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus obesiensis	host
+GCF_000513555	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Oribacterium	Oribacterium sp000513555	host
+GCF_001404875	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Dorea_A	Dorea_A longicatena_B	host
+GCF_001405375	Actinobacteriota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella aerofacienF	host
+GCF_002007235	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Oribacterium	Oribacterium sp002007235	host
+GCF_002251245	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp002251245	host
+GCF_002251365	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp002251365	host
+GCF_002251435	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp002251435	host
+GCF_003268275	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Hydrogeniiclostridium	Hydrogeniiclostridium mannosilyticum	host
+GCF_003434055	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster aldenensis	host
+GCF_003435815	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	CAG-317	CAG-317 sp000433215	host
+GCF_003437535	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola plebeiuA	host
+GCF_003458885	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA9414	UBA9414 sp003458885	host
+GCF_003464595	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides intestinaliA	host
+GCF_003470905	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	Roseburia sp003470905	host
+GCF_003473295	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides sp003473295	host
+GCF_003473545	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster sp000431375	host
+GCF_003477705	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium_B	Lachnoclostridium_B sp900066555	host
+GCF_003478035	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	CAG-81	CAG-81 sp900066785	host
+GCF_003478275	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	AM51-8	AM51-8 sp003478275	host
+GCF_003478935	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	KLE1615	KLE1615 sp900066985	host
+GCF_003478995	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Lawsonibacter	Lawsonibacter sp003478995	host
+GCF_003479405	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Eubacterium_G	Eubacterium_G sp000432355	host
+GCF_003480315	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA9502	UBA9502 sp003480315	host
+GCF_003480425	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Schaedlerella	Schaedlerella sp900066545	host
+GCF_003480435	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	CAG-81	CAG-81 sp900066055	host
+GCF_003481825	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA9502	UBA9502 sp003481825	host
+GCF_003481985	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA9502	UBA9502 sp003506385	host
+GCF_003490145	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	CAG-95	CAG-95 sp900066375	host
+GCF_003612335	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Lawsonibacter	Lawsonibacter sp003612335	host
+GCF_003612395	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	CAG-95	CAG-95 sp003612395	host
+GCF_003612525	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	C-53	C-53 sp003612525	host
+GCF_003612625	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Anaerotruncus	Anaerotruncus sp003612625	host
+GCF_003625485	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Butyrivibrio	Butyrivibrio sp003625485	host
+GCF_004010535	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	RUG721	RUG721 sp004010535	host
+GCF_004168205	Firmicutes	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Catenibacterium	Catenibacterium sp000437715	host
+GCF_004569635	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp004569635	host
+GCF_004570975	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	Muribaculum sp001701195	host
+GCF_004766125	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Duncaniella	Duncaniella freteri	host
+GCF_004792655	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp004792655	host
+GCF_004793475	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp002491635	host
+GCF_004793925	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	NM07-P-09	NM07-P-09 sp004793925	host
+GCF_004801635	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	Muribaculum sp002473395	host
+GCF_005845105	Firmicutes_A	Clostridia_A	Christensenellales	GCA-900066905	GCA-900066905	GCA-900066905 sp900066905	host
+GCF_009695635	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae	Spiro-01	Spiro-01 sp009695635	host
+GCF_009695655	Firmicutes	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Sharpea	Sharpea azabuensiA	host
+GCF_009695875	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella	Olsenella sp900555995	host
+GCF_009695985	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus porci	host
+GCF_009696175	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	VUMM01	VUMM01 sp009696175	host
+GCF_009917405	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	C-19	C-19 sp009917405	host
+GCF_009917525	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Acutalibacter	Acutalibacter sp009917525	host
+GCF_009917545	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	CAG-81	CAG-81 sp009917545	host
+GCF_013155265	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	MMGLQ5-1	MMGLQ5-1 sp013155265	host
+GCF_013166515	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp013166515	host
+GCF_013166545	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp013166545	host
+GCF_013166595	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp002298815	host
+GCF_013166605	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp013166605	host
+GCF_013346925	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Bombilactobacillus	Bombilactobacillus mellis	host
+GCF_013415425	Firmicutes	Bacilli	Staphylococcales	Gemellaceae	Gemella	Gemella sp013415425	host
+GCF_014281125	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Flavonifractor	Flavonifractor gabonensis	host
+GCF_014287275	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Pygmaiobacter	Pygmaiobacter sp014287275	host
+GCF_014287635	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	1XD42-69	1XD42-69 sp014287635	host
+GCF_014287875	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Lawsonibacter	Lawsonibacter sp014287875	host
+GCF_014287955	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	Lachnospira sp900316325	host
+GCF_900240245	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium_A	Lachnoclostridium_A edouardi	host
+GCF_900240315	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Dorea_B	Dorea_B phocaeensis	host
+GCF_900291465	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	CAG-462	CAG-462 sp900291465	host
+GCF_900604955	Actinobacteriota	Actinomycetia	Actinomycetales	Actinomycetaceae	Neoactinobaculum	Neoactinobaculum massilliense	host
+GCF_900751685	Firmicutes_A	Clostridia	Monoglobales_A	UBA1381	HGM11530	HGM11530 sp900751685	host
+GCF_900759985	Firmicutes	Bacilli	RF39	UBA660	CAG-594	CAG-594 sp900759985	host
+GCF_900763175	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia_A	Blautia_A sp900763175	host
+GCF_900764045	Firmicutes_A	Clostridia	Lachnospirales	UBA1390	UBA1390	UBA1390 sp900764045	host
+GCF_900766585	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	HGM12789	HGM12789 sp900766585	host
+GCF_900766775	Bacteroidota	Bacteroidia	Bacteroidales	Paludibacteraceae	RF16	RF16 sp900766775	host
+GCF_900767605	Firmicutes	Bacilli	RFN20	CAG-826	UBA733	UBA733 sp900767605	host
+GCF_900767645	Proteobacteria	Alphaproteobacteria	RF32	CAG-239	CAAFZY01	CAAFZY01 sp900767645	host
+GCF_900767825	Firmicutes	Bacilli	RFN20	CAG-826	UBA733	UBA733 sp900767825	host
+GCF_900767955	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	Treponema_D	Treponema_D sp900767955	host
+GCF_900768245	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UMGS363	UMGS363 sp900768245	host
+GCF_900768425	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	HGM11367	HGM11367 sp900768425	host
+GCF_900768515	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	Victivallis	Victivallis sp900768515	host
+GCF_900768705	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	CAG-115	CAG-115 sp900768705	host
+GCF_900769075	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	UBA11524	UBA11524 sp900769075	host
+GCF_900769465	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	HGM04593	HGM04593 sp900769465	host
+GCF_900769535	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	UMGS1976	UMGS1976 sp900769535	host
+GCF_900769705	Proteobacteria	Alphaproteobacteria	RF32	CAG-239	RUG410	RUG410 sp900769705	host
+GCF_900769955	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae	Spiro-01	Spiro-01 sp900769955	host
+GCF_900769975	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	Treponema_D	Treponema_D sp900769975	host
+GCF_900769985	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	Treponema_D	Treponema_D sp900769985	host
+GCF_900770255	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	CAG-177	CAG-177 sp900770255	host
+GCF_900770345	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster sp900770345	host
+GCF_900770405	Firmicutes_A	Clostridia	Monoglobales_A	UBA1381	HGM11525	HGM11525 sp900770405	host
+GCF_900772415	Firmicutes	Bacilli	RF39	UBA660	CAG-594	CAG-594 sp900772415	host
+GCF_900772625	Proteobacteria	Alphaproteobacteria	RF32	UBA3637	CAAHEQ01	CAAHEQ01 sp900772625	host
+GCF_903645315	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	UMGS1518	UMGS1518 sp900552575	host
+GCA_001412365	WOR-3	SDB-A	SDB-A	SDB-A	SDB-A	SDB-A sp001412365	marine environment
+GCA_001438205	Bacteroidota	Bacteroidia	Flavobacteriales	Schleiferiaceae	TMED14	TMED14 sp001438205	marine environment
+GCA_002167745	Proteobacteria	Gammaproteobacteria	Burkholderiales	UBA3031	UBA3031	UBA3031 sp002167745	marine environment
+GCA_002167805	Bacteroidota	Bacteroidia	Flavobacteriales	Schleiferiaceae	TMED14	TMED14 sp002167805	marine environment
+GCA_002299965	Caldisericota	Caldisericia	Caldisericales	Caldisericaceae	UBA646	UBA646 sp002299965	marine environment
+GCA_002333405	Actinobacteriota	Actinomycetia	Actinomycetales	Microbacteriaceae	Aquiluna	Aquiluna sp002333405	marine environment
+GCA_002336245	Bacteroidota	Bacteroidia	Flavobacteriales	Salibacteraceae	UBA4419	UBA4419 sp002336245	marine environment
+GCA_002346225	Bacteroidota	Bacteroidia	Chitinophagales	BACL12	UBA11426	UBA11426 sp002346225	marine environment
+GCA_002364005	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	UBA1924	UBA1924 sp002364005	marine environment
+GCA_002364555	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	UBA1668	UBA1668 sp002364555	marine environment
+GCA_002375935	Bipolaricaulota	Bipolaricaulia	Bipolaricaulales	Bipolaricaulaceae	UBA3574	UBA3574 sp002375935	marine environment
+GCA_002375995	Bipolaricaulota	Bipolaricaulia	Bipolaricaulales	Bipolaricaulaceae	UBA3571	UBA3571 sp002375995	marine environment
+GCA_002376045	Firmicutes_A	Thermosediminibacteria	UBA3567	UBA3567	UBA3567	UBA3567 sp002376045	marine environment
+GCA_002376065	Firmicutes	Bacilli	Izemoplasmatales	Izemoplasmataceae	UBA3566	UBA3566 sp002376065	marine environment
+GCA_002390705	Actinobacteriota	Actinomycetia	Nanopelagicales	S36-B12	UBA4592	UBA4592 sp002390705	marine environment
+GCA_002450835	Chloroflexota	Dehalococcoidia	UBA6926	UBA6926	UBA6926	UBA6926 sp002450835	marine environment
+GCA_002471845	Marinisomatota	Marinisomatia	Marinisomatales	TCS55	TCS55	TCS55 sp002471845	marine environment
+GCA_002480345	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	UBA1926	UBA1926 sp002480345	marine environment
+GCA_002500505	Planctomycetota	UBA1135	UBA1135	UBA1135	UBA7888	UBA7888 sp002500505	marine environment
+GCA_002682945	Bacteroidota	Bacteroidia	Flavobacteriales	Schleiferiaceae	TMED14	TMED14 sp002682945	marine environment
+GCA_002689385	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	GCA-002718515	GCA-002718515 sp002689385	marine environment
+GCA_002699725	Actinobacteriota	Acidimicrobiia	Acidimicrobiales	MedAcidi-G1	S20-B6	S20-B6 sp002699725	marine environment
+GCA_002701365	Bacteroidota	Bacteroidia	Flavobacteriales	TMED113	GCA-002701365	GCA-002701365 sp002701365	marine environment
+GCA_002705055	Planctomycetota	UBA1135	UBA1135	UBA1135	GCA-2705055	GCA-2705055 sp002705055	marine environment
+GCA_002705085	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	UBA8653	UBA8653 sp002705085	marine environment
+GCA_002709295	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	GCA-002862325	GCA-002862325 sp002709295	marine environment
+GCA_002711415	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	GCA-2711415	GCA-2711415 sp002711415	marine environment
+GCA_002717465	Chloroflexota	Dehalococcoidia	SAR202	UBA826	GCA-2717465	GCA-2717465 sp002717465	marine environment
+GCA_002718095	Chloroflexota	Dehalococcoidia	SAR202	UBA826	UBA826	UBA826 sp002718095	marine environment
+GCA_002721895	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	UBA1100	UBA6614	UBA6614 sp002721895	marine environment
+GCA_002728195	Chloroflexota	Dehalococcoidia	SAR202	UBA826	UBA11996	UBA11996 sp002728195	marine environment
+GCA_002728855	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	GCA-002728855	GCA-002728855 sp002728855	marine environment
+GCA_002733385	Proteobacteria	Alphaproteobacteria	Caulobacterales	Maricaulaceae	Robiginitomaculum_A	Robiginitomaculum_A sp002733385	marine environment
+GCA_002746235	Planctomycetota	UBA1135	UBA1135	UBA1135	GCA-2746235	GCA-2746235 sp002746235	marine environment
+GCA_002746305	Bacteroidota	Bacteroidia	NS11-12g	UBA9320	UBA9320	UBA9320 sp002746305	marine environment
+GCA_002862305	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	UBA8087	UBA8087 sp002862305	marine environment
+GCA_003641415	Zixibacteria	MSB-5A5	GN15	44604	B120-G9	B120-G9 sp003641415	marine environment
+GCA_003641665	WOR-3	32-111	QNBC01	QNBC01	QNBC01	QNBC01 sp003641665	marine environment
+GCA_003644505	Omnitrophota	Koll11	UBA1560	SKK-01	B134-G9	B134-G9 sp003644505	marine environment
+GCA_003645085	UBP14	UBA6098	UBA6098	UBA6098	QNEE01	QNEE01 sp003645085	marine environment
+GCA_003712165	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	GCA-2732755	GCA-2732755 sp003712165	marine environment
+GCA_004195325	Firmicutes	Bacilli	Izemoplasmatales	Izemoplasmataceae	Izemoplasma_B	Izemoplasma_B sp004195325	marine environment
+GCA_004213555	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	UBA8653	UBA8653 sp002862275	marine environment
+GCA_004375785	WOR-3	E44-bin80	E44-bin80	E44-bin80	E44-bin80	E44-bin80 sp004375785	marine environment
+GCA_004375895	WOR-3	WOR-3	B3-TA06	B3-TA06	B3-TA06	B3-TA06 sp004375895	marine environment
+GCA_004376325	Actinobacteriota	UBA1414	UBA1414	UBA1414	20-14-0-20-35-9	20-14-0-20-35-9 sp004376325	marine environment
+GCA_004376575	TA06	DG-26	E44-bin18	E44-bin18	E44-bin18	E44-bin18 sp004376575	marine environment
+GCA_004376785	WOR-3	WOR-3	SM23-42	SM23-42	SOIY01	SOIY01 sp004376785	marine environment
+GCA_004377355	WOR-3	UBA3072	UBA3072	UBA3072	E29-bin14	E29-bin14 sp004377355	marine environment
+GCA_005223075	WOR-3	WOR-3	B3-TA06	B3-TA06	B3-TA06	B3-TA06 sp005223075	marine environment
+GCA_008373095	Chloroflexota	Dehalococcoidia	SAR202	UBA826	UBA11996	UBA11996 sp002320875	marine environment
+GCA_008636105	Planctomycetota	Brocadiae	Brocadiales	Scalinduaceae	DRGJ01	DRGJ01 sp008636105	marine environment
+GCA_009391535	Chloroflexota	Dehalococcoidia	UBA2985	UBA2985	VFHP01	VFHP01 sp009391535	marine environment
+GCA_009392005	Chloroflexota	Dehalococcoidia	UBA6926	VFHL01	VFHL01	VFHL01 sp009392005	marine environment
+GCA_009392195	Chloroflexota	Dehalococcoidia	SAR202	OSU-TB39	OSU-TB39	OSU-TB39 sp009392195	marine environment
+GCA_009392295	Chloroflexota	Dehalococcoidia	SAR202	GCA-2719675	GCA-2719675	GCA-2719675 sp009392295	marine environment
+GCA_009711825	Firmicutes_D	Proteinivoracia	UBA4975	VEMY01	VEMY01	VEMY01 sp009711825	marine environment
+GCA_011170285	Chloroflexota	Dehalococcoidia	Dehalococcoidales	UBA5760	W498	W498 sp011170285	marine environment
+GCA_011170375	Chloroflexota	Dehalococcoidia	Dehalococcoidales	Fen-1064	W589	W589 sp011170375	marine environment
+GCA_011174795	Chloroflexota	Dehalococcoidia	SZUA-161	SZUA-161	W281	W281 sp011174795	marine environment
+GCA_011773985	RBG-13-66-14	B26-G2	WVWN01	WVWN01	WVWN01	WVWN01 sp011773985	marine environment
+GCA_012959525	Planctomycetota	UBA1135	UBA1135	GCA-002686595	GCA-2720975	GCA-2720975 sp012959525	marine environment
+GCA_013001705	Bacteroidota	Bacteroidia	Flavobacteriales	JABDKJ01	JABDLZ01	JABDLZ01 sp013001705	marine environment
+GCA_013002165	Bacteroidota	Rhodothermia	Rhodothermales	UBA10348	JABDKO01	JABDKO01 sp013002165	marine environment
+GCA_013138965	Fermentibacterota	Fermentibacteria	Fermentibacterales	Fermentibacteraceae	Aegiribacteria	Aegiribacteria sp013138965	marine environment
+GCA_013214265	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	DT-110	DT-110 sp013214265	marine environment
+GCA_014238055	Firmicutes	Bacilli	Mycoplasmatales	JABABV01	JABABV01	JABABV01 sp014238055	marine environment
+GCA_014238125	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	GCA-002718515	GCA-002718515 sp014238125	marine environment
+GCA_014238205	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	SP202	SP202 sp014238205	marine environment
+GCA_014238785	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	GCA-002718515	GCA-002718515 sp014238785	marine environment
+GCA_014238965	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	JABAAC01	JABAAC01 sp014238965	marine environment
+GCA_014239275	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	MAG-121220-bin8	MAG-121220-bin8 sp014239275	marine environment
+GCA_014239435	Marinisomatota	Marinisomatia	Marinisomatales	TCS55	JAAZYX01	JAAZYX01 sp014239435	marine environment
+GCA_014381305	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	GCA-002718515	GCA-002718515 sp014381305	marine environment
+GCA_014381755	Marinisomatota	Marinisomatia	Marinisomatales	TCS55	UBA2126	UBA2126 sp014381755	marine environment
+GCA_014381855	Marinisomatota	Marinisomatia	Marinisomatales	UBA8229	JACNKV01	JACNKV01 sp014381855	marine environment
+GCF_001466305	Firmicutes_A	Clostridia	Lachnospirales	Defluviitaleaceae	Defluviitalea	Defluviitalea phaphyphila	marine environment
+GCF_004124385	Marinisomatota	Marinisomatia	Marinisomatales	TCS55	UBA2126	UBA2126 sp004124385	marine environment
