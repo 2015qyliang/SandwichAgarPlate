@@ -1,0 +1,38 @@
+Minimal	Source
+3.1	host
+4.6	host
+6.2	host
+1.55	host
+1.5	host
+30	host
+0.077	host
+3.7	host
+0.01	host
+15.5	host
+1.55	host
+0.77	host
+1.55	host
+2	host
+15.5	host
+31	host
+77.5	host
+38	host
+3.1	host
+7.7	host
+6.25	host
+7.7	host
+0.31	host
+6	host
+1.55	host
+5	host
+1	host
+0.4	host
+1	host
+15.5	host
+2	host
+0.1	host
+0.093	marine sediments
+0.093	marine sediments
+0.186	marine sediments
+0.0001	freshwater
+0.00001	freshwater
